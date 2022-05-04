@@ -8,7 +8,7 @@ setuptools.setup(
   author = 'hwKim',
   author_email = '1828989@donga.ac.kr',
   url = 'https://github.com/HIT18216/Calctest216',
-  download_url = 'https://github.com/HIT18216/Calctest216/blob/main/mycalculator/calculator.py'
+  download_url = 'https://github.com/HIT18216/Calctest216/archive/refs/tags/v1.0.0.zip'
   install_requires = ['pytest'],
   long-description_content_type = 'text/markdown'
   classifiers = [
